@@ -1,14 +1,14 @@
 
 import './App.css'
-import Navbar from './components/navbar'
 import About from './components/About'
-import Proof from './components/Proof'
-import Features from './components/Features'
-import Testimonial from './components/Testimonial'
-import Frequently from './components/Frequently'
 import Blog from './components/Blog'
-import Trial from './components/Trial'
+import Features from './components/Features'
 import Footer from './components/Footer'
+import Frequently from './components/Frequently'
+import Navbar from './components/Navbar'
+import Proof from './components/Proof'
+import Testimonial from './components/Testimonial'
+import Trial from './components/Trial'
 
 
 
