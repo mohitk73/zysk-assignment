@@ -1,0 +1,25 @@
+.testimonial-section {
+    background-color: #f8f9fa; /* Optional background */
+    padding: 60px 20px;
+  }
+  
+  .company-logo {
+    width: 25px;
+    height: 40px;
+  }
+  
+  .company-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  .company-name h4{
+    color:#101828;
+  }
+  
+  .profile-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border: 2px solid #ddd;
+  }
+  

@@ -1,0 +1,26 @@
+#root{
+    margin: 0;
+    padding: 10px;
+    max-width: 1440px;
+    margin-left: 32px;
+    margin-right: 32px;
+   
+}
+.navbar-nav .nav-link{
+    color:#475467;
+}
+.container-fluid .navbar-brand{
+    color: #E63F3A;
+    font-family:sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+}
+@media screen and (min-width: 319px) and (max-width: 608px){
+    #root{
+        margin-left: 30px;
+        margin-right: 20px;
+       
+    }
+
+}
+

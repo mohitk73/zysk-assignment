@@ -1,0 +1,26 @@
+.proof{
+    margin-top: 96px;
+    margin-bottom: 96px;
+}
+.join{
+color: #475467;
+font-size: 16px;
+}
+.companies{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.companies .logo{
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+}
+.logo h3{
+    margin-left: 5px;
+    color: #101828;
+}
